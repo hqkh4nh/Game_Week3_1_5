@@ -760,7 +760,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 559544189432440645, guid: 5b9940b1bf69e4bcfadcfcd1b33fc52b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.3
+      value: -16.33
       objectReference: {fileID: 0}
     - target: {fileID: 559544189432440645, guid: 5b9940b1bf69e4bcfadcfcd1b33fc52b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -802,14 +802,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Ginger (Player)
       objectReference: {fileID: 0}
-    - target: {fileID: 559544189432440647, guid: 5b9940b1bf69e4bcfadcfcd1b33fc52b, type: 3}
-      propertyPath: m_SortingLayer
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 559544189432440647, guid: 5b9940b1bf69e4bcfadcfcd1b33fc52b, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 2020350351
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -823,6 +815,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 164850811}
     m_Modifications:
+    - target: {fileID: 2357782874523789363, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2357782874523789363, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
       propertyPath: m_SortingLayer
       value: 2
@@ -870,6 +866,10 @@ PrefabInstance:
     - target: {fileID: 4460246312280617831, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4515861010075529052, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
+      propertyPath: m_ColliderPaths.Array.size
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4515861010075529052, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
       propertyPath: m_CompositePaths.m_Paths.Array.size
@@ -1011,6 +1011,10 @@ PrefabInstance:
       propertyPath: m_ColliderPaths.Array.data[0].m_ColliderPaths.Array.data[0].Array.data[11].Y
       value: -5161391
       objectReference: {fileID: 0}
+    - target: {fileID: 5756433873339691812, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
+      propertyPath: m_BodyType
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 8598268302772111106, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
       propertyPath: m_Name
       value: Platforms Tilemap
@@ -1018,6 +1022,10 @@ PrefabInstance:
     - target: {fileID: 8598268302772111106, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
       propertyPath: m_Layer
       value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8927431918111597732, guid: 47aed99a865b347efa3b0fb70672ae46, type: 3}
+      propertyPath: m_CompositeOperation
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1462,14 +1470,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 164850811}
     m_Modifications:
-    - target: {fileID: 864241450488864434, guid: 844e5356c306b4971aec0ad38ca3e748, type: 3}
-      propertyPath: m_SortingLayer
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 864241450488864434, guid: 844e5356c306b4971aec0ad38ca3e748, type: 3}
-      propertyPath: m_SortingLayerID
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3712367777409170411, guid: 844e5356c306b4971aec0ad38ca3e748, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0

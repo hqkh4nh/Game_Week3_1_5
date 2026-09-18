@@ -1510,6 +1510,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4973885487849739456, guid: 844e5356c306b4971aec0ad38ca3e748, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8205903749480708674, guid: 844e5356c306b4971aec0ad38ca3e748, type: 3}
       propertyPath: m_Name
       value: Background Tilemap
